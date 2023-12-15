@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Rushikesh, a Computer Engineer
+
+### <div align="left">I'm Rushikesh, a Computer Engineer
 | @SVKM'24 | 🚀 Tech Enthusiast | AI/ML Advocate | Innovating for Impact | Curious for Space Explorations | Research Enthusiast | Python Developer 👨‍💻 |</div>  
   
 
