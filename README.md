@@ -153,7 +153,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshSonwane03&hide_border=true&layout=compact" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=RushikeshSonwane03&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RushikeshSonwane03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -167,9 +167,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RushikeshSonwane03&&style=flat-square" align="center" />
-</div>  
+![Profile views counter](https://komarev.com/ghpvc/?username=RushikeshSonwane03&&style=flat-square)  
   
 
 <br/>  
