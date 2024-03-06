@@ -23,7 +23,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-- 🚀 Experience: ML Intern | Robotics Enthusiast | Workshop Lead | Full Stack Developer  
+- 🚀 Experience: ML Learner | Robotics Enthusiast | Workshop Lead | Full Stack Developer  
   
 
 - 🎶 Hobbies: Coding | Tech Exploration | Sports | Music | Travel  
