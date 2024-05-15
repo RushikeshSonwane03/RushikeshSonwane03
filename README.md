@@ -4,7 +4,7 @@
 | @SVKM'24 | 🚀 Tech Enthusiast | AI/ML Advocate | Innovating for Impact | Curious for Space Explorations | Research Enthusiast | Python Developer 👨‍💻 |</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/RushikeshSonwane03)  
+- 🔭 I’m currently working on [Github](https://github.com/RushikeshSonwane03)  
   
 
 - 🚀 Tech Enthusiast | AI/ML Advocate | Innovator 🌟  
