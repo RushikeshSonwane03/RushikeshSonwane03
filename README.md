@@ -122,8 +122,8 @@
 ## Connect with me  
 <div align="center">
 <a href="https://x.com/RushikeshS_03" target="_blank">
-    <i class="fa-brands fa-x-twitter" style="font-size: 32px; color: #00acee; margin-bottom: 5px;"></i>
-</a>
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
 <a href="https://github.com/RushikeshSonwane03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
