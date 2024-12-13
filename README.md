@@ -116,16 +116,14 @@
 
 <br/>  
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" rel="stylesheet">
+
 
 ## Connect with me  
 <div align="center">
 <a href="https://x.com/RushikeshS_03" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 32px; width: 32px; fill: #00acee; margin-bottom: 5px;">
-        <!--!Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
-        <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/>
-    </svg>
+    <i class="fa-brands fa-x-twitter" style="font-size: 32px; color: #00acee; margin-bottom: 5px;"></i>
 </a>
-
 <a href="https://github.com/RushikeshSonwane03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
