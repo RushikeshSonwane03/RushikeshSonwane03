@@ -1,138 +1,139 @@
-<div align="center">Hey there! 👋 I'm Rushikesh Sonwane</div>
-
-<div align="center">AI Technocrat & Data Science Engineer</div>
-
-<div align="center">
-I'm an AI and Data Science postgraduate student at Jio Institute with a passion for building intelligent systems that drive real-world impact. My work focuses on leveraging Generative AI, Deep Learning, and NLP to transform complex data into tangible, innovative solutions.
 
 
+### <div align="left">I'm Rushikesh, a Computer Engineer
+| @SVKM'24 | 🚀 Tech Enthusiast | AI/ML Advocate | Innovating for Impact | Curious for Space Explorations | Research Enthusiast | Python Developer 👨‍💻 |</div>  
+  
+
+- 🔭 I’m currently working on [Github](https://github.com/RushikeshSonwane03)  
+  
+
+- 🚀 Tech Enthusiast | AI/ML Advocate | Innovator 🌟  
+  
+
+- 🎓 B.Tech in Computer Engineering | SVKM’s Institute of Technology | '24
+📍 Dhule, Maharashtra, India  
+  
+
+- 😎 Passionate about harnessing technology's power to drive innovation and create positive change. 🌐 Transforming concepts into tangible solutions is my mission!  
+  
+
+- ❓ Ask me about anything related to Python Development and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+- 🚀 Experience: ML Learner | Robotics Enthusiast | Workshop Lead | Full Stack Developer  
+  
+
+- 🎶 Hobbies: Coding | Tech Exploration | Sports | Music | Travel  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 
-📍 Dhule, Maharashtra, India
+### Programming  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>  
+
+
+
+### Web Dev  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<!-- <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>   -->
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-<div align="center">🚀 What I'm Currently Focused On</div>
-
-🔬 Diving deep into my PGP in AI & Data Science @ Jio Institute ('26).
-
-🤖 Building with Generative AI, including LLMs and RAG architectures.
-
-🧠 Exploring Deep Learning (CV/NLP), Time Series Analysis, and Agentic AI.
-
-🎓 Holding a B.Tech in Computer Engineering ('24) from SVKM's Institute of Technology.
-
-<div align="center">🧰 My Digital Toolkit</div>
-
-<div align="center">
-
-AI/ML & Data Science
+</td><td valign="top" width="33%">
 
 
 
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3Dtableau%26logoColor%3Dwhite" alt="Tableau" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache%2520Spark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapachespark%26logoColor%3Dwhite" alt="PySpark" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks" />
-
-Backend & Frameworks
+### Databases  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  <!-- <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   -->
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+</div>  
 
 
 
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite" alt="FastAPI" />
-
-Languages & Databases
-
+### OS  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<!-- <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>   -->
+</div>  
 
 
 
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-003B57%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftsqlserver%26logoColor%3Dwhite" alt="SQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-Tools & Platforms
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LaTeX-008080%3Fstyle%3Dfor-the-badge%26logo%3Dlatex%26logoColor%3Dwhite" alt="LaTeX" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite" alt="AWS" />
-
+### Libraries  
+<div align="center">  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 </div>
 
-<div align="center">👾 Featured AI Projects</div>
+</td><td valign="top" width="33%">
 
-(Note: Repo links are placeholders - please update them to your actual repositories!)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://www.google.com/search?q=https://github.com/RushikeshSonwane03/SpacePedia-AI">🚀 SpacePedia AI</a></h3>
-<p>An intelligent space knowledge retrieval system built using open-source LLMs and RAG architecture. It delivers contextual, semantically-retrieved summaries about space missions and astronomy.</p>
-<p><b>Tech:</b> <code>LLM</code>, <code>RAG</code>, <code>Gemini</code>, <code>Python</code>, <code>NLP</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://www.google.com/search?q=https://github.com/RushikeshSonwane03/Doc-Layout-YOLOv8">📄 Document Layout Analysis</a></h3>
-<p>Recognizes and classifies structural elements in documents using a layout analysis model trained on DocLayNet with YOLOv8. Achieved <b>0.94 mAP@0.5</b>, enabling faster information extraction.</p>
-<p><b>Tech:</b> <code>YOLOv8</code>, <code>Computer Vision</code>, <code>PyTorch</code>, <code>DocLayNet</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://www.google.com/search?q=https://github.com/RushikeshSonwane03/Sentiment-Summarizer">📊 AI Sentiment & Summarization App</a></h3>
-<p>A web application that helps users make informed decisions by analyzing customer review sentiment (using <b>RoBERTa</b>) and generating concise summaries (using <b>Gemini 1.5 Flash</b>).</p>
-<p><b>Tech:</b> <code>RoBERTa</code>, <code>Gemini 1.5</code>, <code>NLP</code>, <code>FastAPI</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://www.google.com/search?q=https://github.com/RushikeshSonwane03/Cyclist-Performance-IoT">🚴 IoT Cyclist Performance Monitor</a></h3>
-<p>An IoT system using NodeMCU and sensors (MPU6050, Load Cell) to monitor cyclist exertion. A <b>Random Forest Regressor</b> (R² score: 0.91) predicts pedal force for data-driven training.</p>
-<p><b>Tech:</b> <code>IoT</code>, <code>Machine Learning</code>, <code>Random Forest</code>, <code>NodeMCU</code></p>
-</td>
-</tr>
-</table>
 
-<div align="center">💼 Professional Experience</div>
+### Frameworks  
+<div align="center">  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<!-- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>   -->
+</div>  
 
-Python Developer Intern @ Atos (Eviden) (Oct 2025 - Nov 2025)
 
-Worked on an Application Modernization Toolkit (AppMod).
 
-Upgraded and unit-tested LLM models (AWS Bedrock Claude 3.5 -> 4.0).
+### Version Control  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>  
 
-<div align="center">🌐 Connect with Me</div>
 
+
+### Analytics  
+<div align="center">  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<!-- <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>   -->
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" rel="stylesheet">
+
+
+## Connect with me  
 <div align="center">
 <a href="https://x.com/RushikeshS_03" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> 
 <a href="https://github.com/RushikeshSonwane03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/rushikeshsonwane03" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.google.com/search?q=https://stackoverflow.com/users/21440876/rushikesh-sonwane" target="_blank">
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21440876/rushikesh-sonwane" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/rushikesh-sonwane-a9739120b/" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-sonwane-a9739120b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/therushisonwane_03" target="_blank">
@@ -140,23 +141,43 @@ Upgraded and unit-tested LLM models (AWS Bedrock Claude 3.5 -> 4.0).
 </a>
 <a href="https://www.kaggle.com/rushikeshsonwane" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-</div>
+</a>  
+</div>  
+  
 
-<div align="center">📈 My GitHub Stats</div>
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshSonwane03&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RushikeshSonwane03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=RushikeshSonwane03&&style=flat-square)  
+  
+
+<br/>  
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRushikeshSonwane03%26hide_border%3Dtrue%26layout%3Dcompact%26theme%3Dvision-friendly-dark" align="center" alt="Top Languages" />
+            <a href="https://www.buymeacoffee.com/RushikeshSonwane03" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRushikeshSonwane03%26show_icons%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26theme%3Dvision-friendly-dark" align="center" alt="GitHub Stats" />
-</div>
-
-
-
-
-
-<div align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRushikeshSonwane03%26%26style%3Dflat-square%26color%3Dblueviolet" alt="Profile views" /></div>
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
