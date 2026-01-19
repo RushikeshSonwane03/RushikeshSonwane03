@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/rushikesh-sonwane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/rushikeshsonwa1" target="_blank">
+  <a href="[https://www.hackerrank.com/profile/rushikeshsonwa1](https://www.hackerrank.com/profile/RushiSonwane03)" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://leetcode.com/u/rushikeshsonwane03/" target="_blank">
