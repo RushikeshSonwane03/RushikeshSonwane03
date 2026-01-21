@@ -8,6 +8,9 @@
 
 <!-- Social Badges -->
 <p align="center">
+  <a href="https://rushikeshsonwane03.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
   <a href="https://linkedin.com/in/rushikesh-sonwane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -16,9 +19,6 @@
   </a>
   <a href="https://leetcode.com/u/rushikeshsonwane03/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://rushikeshsonwane03.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
