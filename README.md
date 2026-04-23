@@ -50,7 +50,6 @@ domain_expertise:
   - Cloud-Native AI on AWS (Lambda, Bedrock, EC2)
   - Big Data Engineering (Databricks, PySpark)
 
-currently_seeking : Full-time AI/ML Engineering roles | Graduating 2026
 open_to           : [ Enterprise AI, GenAI Collaborations, Research Opportunities ]
 ```
 
