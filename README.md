@@ -269,16 +269,16 @@ Sensor-driven exertion monitoring using NodeMCU ESP8266 + ML regression. Random 
 | Period | Role | Organization | Focus Area |
 |:-------|:-----|:-------------|:-----------|
 | Oct–Nov 2025 | **Python Developer Intern** | Atos (Eviden) | LLM API migration · AWS Lambda · Cloud-native GenAI |
-| Aug 2025 | **Study Abroad — AI for Business** | NTU Singapore | AI strategy · Rockwell Automation · Accenture · Convergence 2025 |
+| Aug 2025 | **Study Abroad — AI for Business & Strategy** | NTU Singapore | AI strategy · Rockwell Automation · Accenture Singapore · Convergence 2025 |
 
 ### Academic Foundation
 
 | Qualification | Institution | Score | Year |
 |:--------------|:------------|:------|:-----|
-| **PGP — AI & Data Science** | Jio Institute, Navi Mumbai | CGPA 8.66 / 10 | 2025–2026 |
-| **B.Tech — Computer Engineering** | SVKM's Institute of Technology, Dhule | CGPA 8.57 / 10 | 2020–2024 |
-| **12th (Science) - Intermediate** | Y.B. School and Jr. College, Aurangabad | 64.15 % | 2020–2024 |
-| **10th - Metriculation** | Pd Dr. Vitthalrao Vikhe Patil Sainik School, Loni Bk, Rahata, Ahmednagar | 77.80 % | 2020–2024 |
+| **PGP — AI & Data Science** | Jio Institute, Navi Mumbai | CGPA 8.66 | 2025–2026 |
+| **B.Tech — Computer Engineering** | SVKM's Institute of Technology, Dhule | CGPA 8.57 | 2020–2024 |
+| **12th (Science) - Intermediate** | Y.B. School and Jr. College, Aurangabad | 64.15 % | 2018–2020 |
+| **10th - Metriculation** | Pd Dr. Vitthalrao Vikhe Patil Sainik School, Loni Bk, Rahata, Ahmednagar | 77.80 % | 2016–2018 |
 
 ---
 
@@ -292,8 +292,8 @@ Sensor-driven exertion monitoring using NodeMCU ESP8266 + ML regression. Random 
 | 🌏 **NTU Singapore - Study Abroad** | AI for Business & Strategy · Industry: Rockwell Automation, Accenture Singapore | 2025 |
 | 📄 **IEEE Research Publication** | TrustCaller — Voice Fraud Prevention · CONIT 2024, Bangalore | 2024 |
 | 🥇 **Best Student of the Year** | Department of Computer Engineering, SVKM's IoT Dhule | 2024 |
-| 🏆 **Avishkar Research Competition** | Zonal Level Winner (also Institute & Dept. levels) | 2022 |
 | 🤝 **Best NSS Volunteer of the Year** | National Social Service, SVKM's IoT | 2023 |
+| 🏆 **Avishkar Research Competition** | Zonal Level Winner (also Institute & Dept. levels) | 2022 |
 
 </div>
 
@@ -340,7 +340,7 @@ Python ⭐⭐⭐⭐⭐ (5 Stars + Certificate) · SQL ⭐⭐ · Problem Solving 
 | Role | Organization | Period | Contributions |
 |:-----|:------------|:-------|:--------------|
 | 👨‍🎓 **Academic Representative** | AI & DS, Jio Institute | Apr 2025 – Mar 2026 | Student liaison, academic coordination |
-| 📝 **Secretary** | ACM Chapter, SVKM's IoT | Nov 2022 – Nov 2023 | Technical workshops, event management |
+| 📝 **Secretary** | ACM Student Chapter, SVKM's IoT | Nov 2022 – Nov 2023 | Technical workshops, event management |
 | 🎤 **Student Representative** | Internal Grievances Committee | Apr 2022 – Apr 2024 | Student advocacy, conflict resolution |
 | ✍️ **Editor & Content Creator** | Comp-Buzz Newsletter | Jan–Aug 2022 | Content strategy, publication management |
 | 🤖 **College Representative** | e-Yantra Symposium, IIT Bombay | 2022 | Robotics competition |
