@@ -36,7 +36,7 @@ study abroad:
          └─ AI for Business: Learned to build, refine, and apply AI models responsibly to translate data insights into effective business decisions.
          └─ Strategy for AI: How leadership, culture, and governance enable organizations to use AI as a strategic tool for innovation and long-term business value.
      └─ Industry Visit/Learnings: 
-         └─ Visited Rockwell Automation and Accenture, and observed how they integrate AI and automation to solve real business and industrial challenges.
+         └─ Visited Rockwell Automation and Accenture Singapore, and observed how they integrate AI and automation to solve real business and industrial challenges.
          └─ Engaged with global leaders at Convergence 2025, gaining insights into how technology, talent, and transformation shape intelligent enterprises.
 
 experience:
